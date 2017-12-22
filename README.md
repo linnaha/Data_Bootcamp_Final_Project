@@ -18,4 +18,7 @@ I acknowledge that a failure to abide by NYU Stern Honor Code will result in a f
 
 **Project Description**
 
+What socio-economic factors affect SAT scores in NYC?
+
+The SAT is a very rigorous and competitive test which continues to play a large role in college and even career opportunities. Open Data NYC has provided a dataset which assesses the performance of public schools in New York City. The dataset provides a framework which delves into over 30+ factors such as economic need index, rigoroussness of curriculum, and safety of students. By analyzing this data set, we want to gain insight on what contributes the most to SAT score outcome. 
 
